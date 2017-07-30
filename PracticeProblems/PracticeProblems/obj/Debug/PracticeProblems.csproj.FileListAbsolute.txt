@@ -1,0 +1,6 @@
+C:\Users\Jens Joergensen\Google\CSharp\PracticeProblems\PracticeProblems\bin\Debug\PracticeProblems.exe.config
+C:\Users\Jens Joergensen\Google\CSharp\PracticeProblems\PracticeProblems\bin\Debug\PracticeProblems.exe
+C:\Users\Jens Joergensen\Google\CSharp\PracticeProblems\PracticeProblems\bin\Debug\PracticeProblems.pdb
+C:\Users\Jens Joergensen\Google\CSharp\PracticeProblems\PracticeProblems\obj\Debug\PracticeProblems.csprojResolveAssemblyReference.cache
+C:\Users\Jens Joergensen\Google\CSharp\PracticeProblems\PracticeProblems\obj\Debug\PracticeProblems.exe
+C:\Users\Jens Joergensen\Google\CSharp\PracticeProblems\PracticeProblems\obj\Debug\PracticeProblems.pdb
