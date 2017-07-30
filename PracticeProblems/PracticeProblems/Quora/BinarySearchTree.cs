@@ -108,36 +108,36 @@ namespace PracticeProblems.Quora
             }
         }
 
-        public static void ShiftLeftRightLevelOrder(Tree tree, List<int> numbers)
-        {
-            var leftQueue = new Queue<Tree>();
-            var rightQueue = new Queue<Tree>();
-
-            var curr = tree;
-
-            while (true)
-            {
-                //Process left 
-                if (curr.Right)
-                {
-                    
-                }
-
-                //Process right 
-                if (curr != null)
-                {
-                    stack.Push(curr);
-                    curr = curr.Left;
-                }
-                else
-                {
-                    curr = stack.Peek();
-                    numbers.Add(curr.Item);
-                    stack.Pop();
-                    curr = curr.Right;
-                }
-            }
-        }
+        //public static void ShiftLeftRightLevelOrder(Tree tree, List<int> numbers)
+        //{
+        //    var leftQueue = new Queue<Tree>();
+        //    var rightQueue = new Queue<Tree>();
+        //
+        //    var curr = tree;
+        //
+        //    while (true)
+        //    {
+        //        //Process left 
+        //        if (curr.Right)
+        //        {
+        //            
+        //        }
+        //
+        //        //Process right 
+        //        if (curr != null)
+        //        {
+        //            stack.Push(curr);
+        //            curr = curr.Left;
+        //        }
+        //        else
+        //        {
+        //            curr = stack.Peek();
+        //            numbers.Add(curr.Item);
+        //            stack.Pop();
+        //            curr = curr.Right;
+        //        }
+        //    }
+        //}
 
 
         public static void StackBasedReverseOrderTraversal(Tree tree, List<int> numbers)

@@ -32,10 +32,10 @@ namespace PracticeProblems
 
         public int N => Queue.Length;
 
-        public static int Parent(int n)
-        {
-            if(n ==1)
-        }
+        //public static int Parent(int n)
+        //{
+        //    if (n == 1) ;
+        //};
     }
 
     public static class HeapOperations
