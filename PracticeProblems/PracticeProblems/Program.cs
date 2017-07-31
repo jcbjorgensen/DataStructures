@@ -11,7 +11,8 @@ namespace PracticeProblems
     {
         static void Main(string[] args)
         {
-            TreeOperationsTest.TreeTest();
+            NQueensProblem.PrintAllSolutions();
+            //TreeOperationsTest.TreeTest();
             //SegregatePositiveAndNegative.Solve();
             //Quora.BinaryArrayProblem.Solve();
             //LinkedListTests.InsertTest();

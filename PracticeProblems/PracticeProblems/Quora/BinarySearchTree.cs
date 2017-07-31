@@ -15,9 +15,6 @@ namespace PracticeProblems.Quora
         public Tree Right;
     }
 
-
-
-
     public static class TreeOperationsTest
     {
         public static void TreeTest()

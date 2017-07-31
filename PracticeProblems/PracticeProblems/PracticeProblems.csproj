@@ -50,7 +50,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Quora\BinarySearchTree.cs" />
+    <Compile Include="Quora\NQueensProblem.cs" />
     <Compile Include="Quora\Problems.cs" />
+    <Compile Include="Quora\ShortestPathInMaze.cs" />
     <Compile Include="Semaphores.cs" />
   </ItemGroup>
   <ItemGroup>

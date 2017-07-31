@@ -32,6 +32,8 @@ namespace PracticeProblems
 
         public int N => Queue.Length;
 
+        //Something new 
+
         //public static int Parent(int n)
         //{
         //    if (n == 1) ;
