@@ -11,7 +11,8 @@ namespace PracticeProblems
     {
         static void Main(string[] args)
         {
-            NQueensProblem.PrintAllSolutions();
+            ShortestPathInMaze.FindShortestPath();
+            //NQueensProblem.PrintAllSolutions();
             //TreeOperationsTest.TreeTest();
             //SegregatePositiveAndNegative.Solve();
             //Quora.BinaryArrayProblem.Solve();
