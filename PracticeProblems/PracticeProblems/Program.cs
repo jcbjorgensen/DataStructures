@@ -11,7 +11,9 @@ namespace PracticeProblems
     {
         static void Main(string[] args)
         {
-            ShortestPathInMaze.FindShortestPath();
+            MergeSort.Test();
+            //BubbleSort.BubbleTest();
+            //ShortestPathInMaze.FindShortestPath();
             //NQueensProblem.PrintAllSolutions();
             //TreeOperationsTest.TreeTest();
             //SegregatePositiveAndNegative.Solve();
