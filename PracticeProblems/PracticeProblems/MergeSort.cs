@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PracticeProblems
 {
@@ -10,8 +6,8 @@ namespace PracticeProblems
     {
         public static void Test()
         {
-            var lst = new int[] {38,27,43,3,9,82,10 };
-            var trueSortedList = new int[] { 3,9,10,27,38,43,82 };
+            var lst = new[] {38,27,43,3,9,82,10 };
+            var trueSortedList = new[] { 3,9,10,27,38,43,82 };
             Sort(lst);
 
             //Compare result with sorted 

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Architecture\FactoryPattern.cs" />
     <Compile Include="BubbleSort.cs" />
     <Compile Include="CrackingTheCode\PracticeProblems1.cs" />
     <Compile Include="HashTable.cs" />
