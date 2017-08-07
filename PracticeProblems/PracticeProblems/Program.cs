@@ -11,7 +11,9 @@ namespace PracticeProblems
     {
         static void Main(string[] args)
         {
-            HeapTests.Test();
+            QuickSort.Test();
+            //HeapProblems.KthSmallestElementTest();
+            //HeapTests.Test();
             //MergeSort.Test();
             //BubbleSort.BubbleTest();
             //ShortestPathInMaze.FindShortestPath();

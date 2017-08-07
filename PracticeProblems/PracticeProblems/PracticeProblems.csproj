@@ -52,7 +52,9 @@
     <Compile Include="MergeSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuickSort.cs" />
     <Compile Include="Quora\BinarySearchTree.cs" />
+    <Compile Include="Quora\HeapProblems.cs" />
     <Compile Include="Quora\NQueensProblem.cs" />
     <Compile Include="Quora\Problems.cs" />
     <Compile Include="Quora\ShortestPathInMaze.cs" />
